@@ -1,0 +1,3 @@
+apache-airflow>=2.8.0
+pandas>=2.0.0
+# Local runner does not need a full Airflow DB — callables run via python -m
